@@ -1,3 +1,5 @@
+# This could be more efficient.
+
 pin1 = int(input("Enter the first number of your pin"))
 pin2 = int(input("Enter the second number of your pin"))
 pin3 = int(input("Enter the third number of your pin"))
